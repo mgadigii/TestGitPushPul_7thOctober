@@ -4,6 +4,7 @@ Verifying stash functionality
 Second time i am stashing
 Testing Stash again
 Git Stash locally
+Changes added from remote
 
 
 
