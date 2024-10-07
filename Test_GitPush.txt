@@ -3,6 +3,7 @@ Verifying Git stash
 Verifying stash functionality
 Second time i am stashing
 Testing Stash again
+Git Stash locally
 
 
 
